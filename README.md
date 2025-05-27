@@ -31,6 +31,20 @@ I'm a multilingual data scientist in Europe, bridging technology and life scienc
 **ML/AI:** `TensorFlow` `PyTorch` `scikit-learn` `pandas` `NumPy`\
 **Cloud:** `AWS` `Azure` `GCP` `Docker` `Kubernetes`
 
+<!--
+| | |
+|------|-----|
+|
+![sanchezis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezis&theme=react&show_icons=true&hide_border=true&layout=compact)
+![sanchezis's Stats](https://github-readme-stats.vercel.app/api?username=sanchezis&theme=react&show_icons=true&hide_border=true&count_private=true)
+|![sanchezis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchezis&theme=react&hide_border=true)
+|
+| Public repositories only |
+|------|
+|![sanchezis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezis&theme=react&show_icons=true&hide_border=true&layout=compact)|
+-->
+
+
 ## 💡 What I Do
 
 - 🏥 Predictive models for healthcare/telecommunications outcomes
